@@ -1,0 +1,30 @@
+{
+  "id": "0",
+  "type": "Scene",
+  "props": {
+    "label": "Main Scene",
+    "width": 800,
+    "height": 600
+  },
+  "children": [
+    {
+      "id": "3c7c0d0c-656c-4b5c-a167-7a8e30faf55a",
+      "type": "Sprite",
+      "props": {
+        "label": "Sample.png",
+        "url": "assets/Sample.png",
+        "width": 918,
+        "height": 515,
+        "position": {
+          "x": -154.23480224609375,
+          "y": 143.00219726562477
+        },
+        "scale": {
+          "x": 1,
+          "y": 0.9999999999999973
+        },
+        "angle": 0
+      }
+    }
+  ]
+}
